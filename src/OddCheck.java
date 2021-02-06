@@ -8,7 +8,8 @@ public class OddCheck {
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Type an integer Value");
-
+		
+		//Test comment
 		while (true) {
 			try {
 
